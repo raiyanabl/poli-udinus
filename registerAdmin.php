@@ -53,15 +53,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         ?>
                         <div class="form-group">
                             <label for="username">Username</label>
-                            <input type="text" name="username" class="form-control" required placeholder="Masukkan nama anda">
+                            <input type="text" name="username" class="form-control" required placeholder="Nama">
                         </div>
                         <div class="form-group">
                             <label for="password">Password</label>
-                            <input type="password" name="password" class="form-control" required placeholder="Masukkan password">
+                            <input type="password" name="password" class="form-control" required placeholder="Password">
                         </div>
                         <div class="form-group">
                             <label for="confirm_password">Confirm Password</label>
-                            <input type="password" name="confirm_password" class="form-control" required placeholder="Masukkan password konfirmasi">
+                            <input type="password" name="confirm_password" class="form-control" required placeholder="Masukkan Ulang Password">
                         </div>
                         <br>
                         <div class="text-center">

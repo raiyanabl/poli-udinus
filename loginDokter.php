@@ -46,11 +46,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         ?>
                         <div class="form-group">
                             <label for="nama">Nama</label>
-                            <input type="text" name="nama" class="form-control" required placeholder="Masukkan nama anda">
+                            <input type="text" name="nama" class="form-control" required placeholder="Masukkan Nama">
                         </div>
                         <div class="form-group">
                             <label for="password">Password</label>
-                            <input type="password" name="password" class="form-control" required placeholder="Masukkan password anda">
+                            <input type="password" name="password" class="form-control" required placeholder="Masukkan Password">
                         </div>
                         <br>
                         <div class="text-center">
